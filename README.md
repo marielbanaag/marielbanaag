@@ -2,7 +2,7 @@
   <img src="banner.png" alt="banner" width="100%" />
 </p>
 
-<p align="center"><b><font size="12">Hi, I'm Mariel Banaag</font></b></p>
+<p align="center"><b><font size=45px>Hi, I'm Mariel Banaag</font></b></p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&height=40&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Student;Web+Developer;IT+Operations;Networking;Cybersecurity" />
 </div>
