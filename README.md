@@ -17,8 +17,8 @@
 
 ## 👩‍💻 About Me
 ▸ 4th Year BS Information Technology student at Mapúa Malayan Colleges Laguna  
-▸ Consistent Dean’s Lister (All Semesters) & President’s Lister (All Academic Years, 2022–2025)
-▸ Currently specializing in cybersecurity
+▸ Consistent Dean’s Lister (All Semesters) & President’s Lister (All Academic Years, 2022–2025)  
+▸ Currently specializing in cybersecurity  
 ▸ Developing technical skills through hands-on projects and real-world applications
 
 ## 🛠 Tech Stack
